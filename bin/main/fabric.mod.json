@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "inventoryhighlight",
+  "version": "${version}",
+  "name": "Inventory Highlight",
+  "description": "Highlights items with a specific name using a yellow square in the inventory.",
+  "authors": [
+    "YourName"
+  ],
+  "contact": {},
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "com.example.inventoryhighlight.InventoryHighlightMod"
+    ]
+  },
+  "mixins": [
+    "inventoryhighlight.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.15.0",
+    "fabric-api": "*",
+    "minecraft": "~1.21.11",
+    "java": ">=21"
+  }
+}
