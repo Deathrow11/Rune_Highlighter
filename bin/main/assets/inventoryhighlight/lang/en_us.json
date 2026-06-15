@@ -1,0 +1,11 @@
+{
+  "category.goldgoldgold.main": "Rune Highlighter",
+  "key.goldgoldgold.toggle": "Toggle Highlighting (Hold Shift for Config)",
+  "config.goldgoldgold.title": "Rune Highlighter Config",
+  "config.goldgoldgold.description": "Configure Rune Highlighter settings",
+  "config.goldgoldgold.enable_highlight": "Enable Highlighting",
+  "config.goldgoldgold.search": "Search runes...",
+  "config.goldgoldgold.save": "Save",
+  "config.goldgoldgold.cancel": "Cancel",
+  "config.goldgoldgold.saved": "§a[Rune Highlighter] Configuration saved!"
+}

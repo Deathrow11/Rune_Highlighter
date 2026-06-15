@@ -1,0 +1,16 @@
+{
+  "key.category.inventoryhighlight.inventoryhighlight": "Inventory Highlight",
+  "key.inventoryhighlight.toggle": "Toggle Highlighting (Hold Shift for Config)",
+  "message.inventoryhighlight.enabled": "§a[Inventory Highlight] Highlighting enabled",
+  "message.inventoryhighlight.disabled": "§c[Inventory Highlight] Highlighting disabled",
+  "config.inventoryhighlight.title": "Rune Highlighter Config",
+  "config.inventoryhighlight.description": "Configure which runes are highlighted in your inventory",
+  "config.inventoryhighlight.search": "Search runes...",
+  "config.inventoryhighlight.enable_on": "Highlighting: ON",
+  "config.inventoryhighlight.enable_off": "Highlighting: OFF",
+  "config.inventoryhighlight.color": "Color: %s",
+  "config.inventoryhighlight.mode": "Mode: %s",
+  "config.inventoryhighlight.save": "Save",
+  "config.inventoryhighlight.cancel": "Cancel",
+  "config.inventoryhighlight.saved": "§a[Inventory Highlight] Configuration saved!"
+}
