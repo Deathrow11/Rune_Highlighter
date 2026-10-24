@@ -238,5 +238,13 @@ public final class LowLevelHighlightNames {
             "VOLATILE SPIRIT XVIII",
             "VOLATILE SPIRIT XIX",
             "VOLATILE SPIRIT XX"
+            "Hemorrhage XIII"
+            "Hemorrhage XIV"
+            "Hemorrhage XV"
+            "Hemorrhage XVI"
+            "Hemorrhage XVII"
+            "Hemorrhage XVIII"
+            "Hemorrhage XIX"
+            "Hemorrhage XX"
     );
 }
