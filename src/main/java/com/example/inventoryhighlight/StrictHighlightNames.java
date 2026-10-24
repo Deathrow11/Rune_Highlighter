@@ -111,5 +111,9 @@ public final class StrictHighlightNames {
             "VOLATILE FLESH XX",
             "VOLATILE SPIRIT XIX",
             "VOLATILE SPIRIT XX"
+            "Hemorrhage XVII"
+            "Hemorrhage XVIII"
+            "Hemorrhage XIX"
+            "Hemorrhage XX"
     );
 }
