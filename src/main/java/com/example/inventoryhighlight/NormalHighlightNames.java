@@ -157,5 +157,12 @@ public final class NormalHighlightNames {
         "VOLATILE SPIRIT XVIII",
         "VOLATILE SPIRIT XIX",
         "VOLATILE SPIRIT XX"
+        "Hemorrhage XIV"
+        "Hemorrhage XV"
+        "Hemorrhage XVI"
+        "Hemorrhage XVII"
+        "Hemorrhage XVIII"
+        "Hemorrhage XIX"
+        "Hemorrhage XX"
     );
 }
